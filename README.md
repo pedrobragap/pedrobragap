@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrobragap)](https://github.com/pedrobragap)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedro-luiz-braga-pinheiro-7059b1176)](www.linkedin.com/in/pedro-luiz-braga-pinheiro-7059b1176)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pedro-luiz-braga-pinheiro-7059b1176)](https://linkedin.com/in/pedro-luiz-braga-pinheiro-7059b1176)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrobraga85@gmail.com)](mailto:pedrobraga85@gmail.com)
 
 ## About me
